@@ -1,0 +1,6 @@
+texts1 = ["to","do", "is", "to", "be", "to", "be", "is", "to", "do"]
+        texts2 = ['to', 'be', 'or', 'not', 'to', 'be', 'i', 'am', 'what', 'i', 'am']
+        texts3 = ['i', 'think', 'therefore', 'i', 'am', 'do', 'be', 'do', 'be', 'do']
+        texts4 = ['do', 'do', 'do', 'da', 'da', 'da', 'let', 'it', 'be', 'let', 'it', 'be']
+
+        doc = {"one": texts1, "two": texts2, "three": texts3, "four": texts4}
